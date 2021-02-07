@@ -1,7 +1,7 @@
 # chs
 flutter blood donation app usnig firestore
 <br/>
-![WhatsApp Image 2021-02-07 at 04 51 49 (1) ](https://user-images.githubusercontent.com/57316930/107132516-81e3b600-6901-11eb-8ee2-b6b938202b4d.jpeg){:height="50%" width="50%"}
+![WhatsApp Image 2021-02-07 at 04 51 49 (1) ](https://user-images.githubusercontent.com/57316930/107132516-81e3b600-6901-11eb-8ee2-b6b938202b4d.jpeg){:class="img-responsive"}
 
 ![WhatsApp Image 2021-02-07 at 04 51 49 (1) ](https://user-images.githubusercontent.com/57316930/107132516-81e3b600-6901-11eb-8ee2-b6b938202b4d.jpeg)
 ![WhatsApp Image 2021-02-07 at 04 51 49 (4)](https://user-images.githubusercontent.com/57316930/107132510-7e502f00-6901-11eb-94e3-27ceb5eb2e87.jpeg)
